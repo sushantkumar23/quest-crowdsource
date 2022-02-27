@@ -1,0 +1,14 @@
+{
+  "name": "quest-crowdsource",
+  "version": "1.0.0",
+  "description": "Crowdsource program in Solana",
+  "main": "index.js",
+  "repository": "https://github.com/sushantkumar23/quest-crowdsource",
+  "author": "Sushant Kumar <sushantkumar23@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "@solana/web3.js": "^1.35.1",
+    "mz": "^2.7.0"
+  }
+}
